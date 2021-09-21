@@ -1,15 +1,13 @@
-# De novo homology assessment from landmark data
+# PlantCV Interactive Tool Tutorials 
 
-This is an introduction to morphometric analysis in PlantCV using a pseudo-landmarking approach.
+This is an introduction to human-in-the-loop workflows with PlantCV functions relying on interactive widgets (point & click to interactive with image data). 
 
-**Author**: John Hodge
+**Author**: Haley Schuhl 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-homology-tutorials/HEAD?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-interactive-tutorials/HEAD?filepath=index.ipynb)
 
 ## Tutorial tags/keywords
 
-pseudo-landmarking, homology, morphometrics, setaria
+human-in-the-loop, widget, seed-count, camilina
 
-## Citations
 
-Hodge JG, Li Q, Doust A. 2021. De novo homology assessment from landmark data: A workflow to identify and track segmented structures in plant time series images. bioRxiv:2021.02.21.432162. DOI: 10.1101/2021.02.21.432162.
