@@ -1,4 +1,4 @@
-git clone --branch 4.x --single-branch https://github.com/danforthcenter/plantcv.git
+git clone --branch interactive_roi --single-branch https://github.com/danforthcenter/plantcv.git
 cd plantcv
 python setup.py install
 cd ..
